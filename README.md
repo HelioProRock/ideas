@@ -22,3 +22,7 @@ Repo for describe new business/applications ideas. The README file will be used 
 para cada item adicionado, como corte de cabelo, barba, etc, o usuario do tipo barbeiro pode adicionar informações
 
 ## [IDEA #6] - DOG WHISPERER APP
+- O QUE É:
+- PUBLICO ALVO:
+- COMO:
+- MONETIZAÇÃO:
