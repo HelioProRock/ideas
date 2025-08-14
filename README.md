@@ -12,3 +12,13 @@ Repo for describe new business/applications ideas. The README file will be used 
 
 ## [IDEA #3] - Simpler Flight searching Acistance
 - O QUE É: é uma aplicação web mobile tenha oportunidade de uma assistente de busca de voos de passagens por usuário vai ter toda interação de forma simples por voz e o assistente consegue interagir funcionalidades da aplicação e fazer as ativar as atividades funcionalidades da aplicação voz usuário pode porque a data que ele tá procurando viajar qual que é o destino nós condições de assistente vai fazer as buscas faz toda a configuração do usuário através dessa comando de voz ligação voltada pro usuário tem dificuldade de mexer tecnologia dificuldade de entrar em sites e buscar fazer pesquisas ele faz toda interação por voz quando tivesse ligando no telefone tivesse presencial somente numa agência pra fazer uma busca de passagem pra tudo isso automatizado com um grande ferramenta de buscas e aviso de de de descontos e tudo mais
+
+## [IDEA #4] - WE SHOPPING
+- O QUE É: Platadorma de compra coletiva con foco em itens de mercado
+- COMO: em um formato parecido com o que o iFood faz um restaurantes será feito na plataforma de plataforma Wish empresas vão se cadastrar e produtos para ser comprados em grande quantidade com valor de desconto a partir disso é feito clientes normais com poder se cadastrar nessa compra coletiva e quando for atingido o número estabelecido pela loja essa compra é efetivada
+
+## [IDEA #5] - MY BARBER APP
+- O QUE É: App voltado para os clientes de barbearia. Nele os usuarios do tipo clinte de banearia tem todo seu historico se uso, como o tipo de corte que gosta, imagens, videos.
+para cada item adicionado, como corte de cabelo, barba, etc, o usuario do tipo barbeiro pode adicionar informações
+
+## [IDEA #6] - DOG WHISPERER APP
