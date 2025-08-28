@@ -26,3 +26,10 @@ para cada item adicionado, como corte de cabelo, barba, etc, o usuario do tipo b
 - PUBLICO ALVO:
 - COMO:
 - MONETIZAÇÃO:
+
+## [IDEA #7] - INTERVIEW COACH TRAINNER APP
+- O QUE É: um aplicativo voltado para treinar pessoas para entrevistas ele tem capacidade de buscar todas informações necessárias que uma pessoa tem para uma entrevista específica composição específica então aplicativo consegue identificar quais necessidades técnicas que a pessoa precisa habilidades para desenvolver os padrões procurados por recrutadores o que geralmente tratada em entrevista quantas faltas são também de acordo com a empresa que ela quer porque ela quer ouvir brinquedo que ela quer buscar essa vaga e ela consegue usar o simulador de entrevistas que é uma que vai simular recrutadores ditos fases de de reputação ele vai conseguir conversar com uma pessoa e interagir com a pessoa com isso ela consegue treinar as pessoas de solução como que consegue sair inclusive apresentações que precisam ser feitas só consegue avaliar como é que foi tudo isso dentro do  aplicativo app 
+- PUBLICO ALVO:
+- COMO:
+- MONETIZAÇÃO:
+
